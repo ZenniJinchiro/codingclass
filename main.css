@@ -8,3 +8,13 @@ strong {
     color: darkblue;
 
 }
+
+em {
+	color: orange;
+}
+ul {
+	color: red;
+}
+a {
+	color: violet;
+}
