@@ -25,3 +25,20 @@
 	color: #009933 ;
     text-decoration: underline;
 }
+.index-title {
+	color: #919dfd;
+}
+
+.link-links li a {
+	color: #ff8671;
+    text-decoration: none;
+}
+
+.link-links li a:hover {
+	color: #51b201;
+    text-decoration: none;
+}
+
+.foxy-grandpa {
+	color: #8a1822;
+}
