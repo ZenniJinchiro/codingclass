@@ -42,3 +42,26 @@
 .foxy-grandpa {
 	color: #8a1822;
 }
+.main-footer {
+    height: 100px;
+    color: #FFF;
+    background: #222;
+}
+.base {
+    padding-top: 50px;
+    color: #FFF;
+    text-align: center;
+    font-size: 24px;
+}
+.main-header {
+    height: 110px;
+    color: #FFF;
+    background: navy;
+.container {
+    width: 740px;
+    margin: auto;
+}
+.main-content {
+    padding: 20px;
+    background: lightgray;
+}
