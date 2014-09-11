@@ -32,6 +32,7 @@ body {
 	margin: 20px;
 }
 .list {
+	float: left;
 	text-decoration: none;
 	width: 150px;
 	height: 100px;
@@ -40,7 +41,7 @@ body {
 }
 .sub-content {
 width: 590px;
-float: right;
+float: left;
 }
 .list ul {
 	padding-left: 0;
