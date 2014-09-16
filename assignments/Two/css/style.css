@@ -1,0 +1,11 @@
+.container {
+
+}
+
+.mainnavigation {
+	float: left;
+}
+
+.mainnavigation ul {
+	list-style: none;
+}
