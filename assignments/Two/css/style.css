@@ -1,11 +1,29 @@
-.container {
+.pony {
+	background: url(../1406821432748.png) no-repeat center center fixed;
+	background-size: cover;
+}
 
+.container {
+ height:120px;
+ width: 900px;
+ margin: auto;
+ background-color: #FFF;
 }
 
 .mainnavigation {
-	float: left;
+
 }
 
 .mainnavigation ul {
 	list-style: none;
+}
+
+.mainnavigation ul li {
+	padding: 0 15px;
+    float: left;
+    line-height: 50px;
+}
+
+.maincontent {
+	margin: auto;
 }
